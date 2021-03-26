@@ -1,5 +1,5 @@
 # Logistic-Regression
-Cardiovascular Disease (CVD) kills more people than cancer globally. This project analyzes a dataset of real heart patients collected from a 15 year heart study cohort. The dataset has 16 patient features. Note that none of the features include any Blood Test information.
+Cardiovascular Disease (CVD) kills more people than cancer globally. This project analyzes a dataset of real heart patients collected from a 15 year heart study cohort. The dataset has 16 patient features. Note that none of the features include any Blood Test information. This project forms predicitons as to whether or not an individual will have cardiovascular disease given their features.
 
 ## Steps
 1. Examining descriptive stats of each attribute/column
